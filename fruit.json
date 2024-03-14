@@ -1,0 +1,230 @@
+[
+    {
+        "word": "apple",
+        "usphone": "ˈæp(ə)l",
+        "ukphone": "ˈæp(ə)l",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "苹果"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "apples"
+            }
+        ]
+    },
+    {
+        "word": "banana",
+        "usphone": "bəˈnænə",
+        "ukphone": "bəˈnɑːnə",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "香蕉；香蕉树"
+            },
+            {
+                "pos": "adj.",
+                "tran": "愚蠢的，发狂的"
+            },
+            {
+                "pos": "n.",
+                "tran": "（Banana）巴纳纳（姓氏）"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "bananas"
+            }
+        ]
+    },
+    {
+        "word": "orange",
+        "usphone": "ˈɔrɪndʒ",
+        "ukphone": "ˈɒrɪndʒ",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "橙，柑橘；橙汁，橘汁饮料；橙树，橘树；橙色，橘黄色；橙黄色蝴蝶"
+            },
+            {
+                "pos": "adj.",
+                "tran": "橙红色的，橘黄色的；奥兰治党或社团的"
+            },
+            {
+                "pos": "n.",
+                "tran": "（Orange）（美、法、俄、英）奥林奇（人名）"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "oranges"
+            }
+        ]
+    },
+    {
+        "word": "grape",
+        "usphone": "ɡreɪp",
+        "ukphone": "ɡreɪp",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "葡萄；葡萄酒（the grape）；霰弹，葡萄弹（grapeshot 的简称）；葡萄树；葡萄色"
+            },
+            {
+                "tran": "【名】 （Grape）（法）格拉普，（德、瑞典）格拉佩（人名）"
+            }
+        ],
+        "wfs": []
+    },
+    {
+        "word": "strawberry",
+        "usphone": "ˈstrɔːberi",
+        "ukphone": "ˈstrɔːbəri",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "草莓；草莓色，紫红色"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "strawberries"
+            }
+        ]
+    },
+    {
+        "word": "cherry",
+        "usphone": "ˈtʃeri",
+        "ukphone": "ˈtʃeri",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "樱桃；樱桃树；樱桃木；樱桃色，鲜红色；果实与樱桃相似的植物；<非正式>童贞"
+            },
+            {
+                "pos": "adj.",
+                "tran": "樱桃色的，鲜红色的"
+            },
+            {
+                "tran": "【名】 （Cherry）（法、阿拉伯）谢里，（英）彻丽（女子教名 Charity 的昵称）（人名）"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "cherries"
+            }
+        ]
+    },
+    {
+        "word": "watermelon",
+        "usphone": "ˈwɔːtərmelən",
+        "ukphone": "ˈwɔːtəmelən",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "西瓜"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "watermelons"
+            }
+        ]
+    },
+    {
+        "word": "lemon",
+        "usphone": "ˈlemən",
+        "ukphone": "ˈlemən",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "柠檬；柠檬汁；柠檬色；柠檬树（=lemon tree）；<非正式>蹩脚的人（或物）"
+            },
+            {
+                "pos": "adj.",
+                "tran": "柠檬色的"
+            },
+            {
+                "tran": "【名】 （Lemon）（美）莱蒙（人名）"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "lemons"
+            }
+        ]
+    },
+    {
+        "word": "pear",
+        "usphone": "per",
+        "ukphone": "peə(r)",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "梨，梨树"
+            },
+            {
+                "tran": "【名】 （Pear）（英）皮尔（人名）"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "pears"
+            }
+        ]
+    },
+    {
+        "word": "peach",
+        "usphone": "piːtʃ",
+        "ukphone": "piːtʃ",
+        "trs": [
+            {
+                "pos": "n.",
+                "tran": "桃子；桃树；桃红色；<非正式>极好的人（或物）"
+            },
+            {
+                "pos": "adj.",
+                "tran": "桃红色的；用桃子制成的"
+            },
+            {
+                "pos": "v.",
+                "tran": "告密，告发"
+            },
+            {
+                "tran": "【名】 （Peach）皮奇（人名）"
+            }
+        ],
+        "wfs": [
+            {
+                "name": "复数",
+                "value": "peaches"
+            },
+            {
+                "name": "第三人称单数",
+                "value": "peaches"
+            },
+            {
+                "name": "现在分词",
+                "value": "peaching"
+            },
+            {
+                "name": "过去式",
+                "value": "peached"
+            },
+            {
+                "name": "过去分词",
+                "value": "peached"
+            }
+        ]
+    }
+]
